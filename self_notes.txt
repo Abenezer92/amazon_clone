@@ -1,0 +1,13 @@
+--- check repo   https://github.com/samsonmeseret
+
+EXTENSIONS:
+    - Imageye Image downloader : https://chromewebstore.google.com/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm
+
+    - COLORZILLA : https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en
+
+    - Path Intellisense (file name suggestion)  https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+    - Console Ninja   https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja
+
+
+

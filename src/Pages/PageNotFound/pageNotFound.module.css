@@ -1,0 +1,12 @@
+.errorHolder{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorHolder > h2:first-child{
+    /* background-color: blue; */
+    margin-bottom: 10px;
+}
